@@ -1,0 +1,1 @@
+# To-generate-a-2-ms-delay-using-Timer-0-in-Mode-1
