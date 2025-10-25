@@ -1,4 +1,4 @@
-# To-generate-a-2-ms-delay-using-Timer-0-in-Mode-1
+# To-generate-a-2-ms-delay-using-Timer-0-in-Mode-1(212224060048)
 ## AIM
 To Write an assembly language program in 8051 to generate a 2 ms delay using Timer 0 in Mode 1 and toggle an LED connected to Port 2.0.
 
@@ -47,7 +47,8 @@ void delay()
 
 ## OUTPUT
 
-<img width="1518" height="690" alt="Screenshot 2025-10-24 203816" src="https://github.com/user-attachments/assets/6b4c3ff4-6598-41fa-9368-1e5830833c5f" />
+<img width="1654" height="744" alt="Screenshot 2025-10-25 084048" src="https://github.com/user-attachments/assets/5ac94061-8a27-43fa-a508-cbe18cd204ed" />
+
 
 ## RESULT
 
